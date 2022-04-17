@@ -1,0 +1,27 @@
+{
+  "name": "vue3-mobile-template",
+  "private": false,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vite build --mode test"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "global": "^4.4.0",
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.0.13",
+    "vant": "^3.4.7",
+    "vue": "^3.2.33",
+    "vue-axios": "^3.2.4",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "@vue/compiler-sfc": "^3.2.33",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "vite": "^2.9.5"
+  }
+}
